@@ -128,10 +128,3 @@ B:D를 통해 학생들은 수입 관리과 전략적 투자의 중요성을 배
 
 ---
 
-# 5. 팀원 소개
-
-|![현지](https://avatars.githubusercontent.com/u/88645538)|![예림](https://avatars.githubusercontent.com/u/93235981)|![지윤](https://avatars.githubusercontent.com/u/94150712)|![현진](https://avatars.githubusercontent.com/u/90823532)|![승헌](https://avatars.githubusercontent.com/u/99643732 )|![민지](https://avatars.githubusercontent.com/u/139304989 )|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| [유현지](https://github.com/YooHyunJi) <br> 팀장, FE  | [김예림](https://github.com/Lainlnya) <br> FE 리더 | [백지윤](https://github.com/1234jienf)  <br> FE  | [이현진](https://github.com/hgene0929)  <br> BE 리더 | [이승헌](https://github.com/olrlobt) <br> BE, INFRA | [배민지](https://github.com/MJBae327) <br> BE | 
-
-
